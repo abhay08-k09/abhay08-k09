@@ -1,5 +1,5 @@
 # Hi 👋, I'm Abhay Kumar! 
-![Profile Views](https://hits.sh/github.com/anujsingh21.svg?style=for-the-badge&label=Profile%20Views&color=informational&labelColor=gray)
+![Profile Views](https://hits.sh/github.com/abhay08_k09.svg?style=for-the-badge&label=Profile%20Views&color=informational&labelColor=gray)
 
 ## About Me
 I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my B.Tech from **GL Bajaj Institute of Technology and Management**, in department of **Computer Science and Engineering**.
@@ -15,7 +15,7 @@ I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my
   - **CGPA :** 8.3/10.0
 - **Divya Bhaskar Public School, Arrah**
   - **12th Grade:** 69.4%
-- **Sambhawana Awasiya Uchcha Vidyalya, Arrah **
+- **Sambhawana Awasiya Uchcha Vidyalya, Arrah**
   - **10th Grade:** 91.2%
 - **JEE Mains**
   - **Grade:** 91.6%ile
