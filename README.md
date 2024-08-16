@@ -2,7 +2,7 @@
 ![Profile Views](https://hits.sh/github.com/abhay08_k09.svg?style=for-the-badge&label=Profile%20Views&color=informational&labelColor=gray)
 
 ## About Me
-I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my B.Tech from **GL Bajaj Institute of Technology and Management**, in department of **Computer Science and Engineering**.
+I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my B.Tech from **GL Bajaj Institute of Technology and Management**, in department of **Computer Science Engineering**.
 
 ## 🛠 Tools & Technologies
 - **Languages:** C, C++, HTML , CSS, JavaScript, SQL
