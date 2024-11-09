@@ -25,7 +25,6 @@ I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my
 - **LeetCode:** [abhay08_k09_](https://leetcode.com/u/abhay08_k09_/)
 - **CodeChef:** [abhay08_k09_](https://www.codechef.com/users/abhay08102003)
 - **Geeks For Geeks:** [abhay08_k09__](https://www.geeksforgeeks.org/user/abhay08_k09_/) 
-- **Coding Ninjas:** [abhay08_k09_](https://www.naukri.com/code360/profile/954c1f3e-57cf-4672-bc38-7952e29e5e42) 
 
 ## 📫 How to Reach Me
 - **Email:** [abhay08102003@gmail.com](mailto:abhay08102003@gmail.com)
