@@ -32,7 +32,6 @@ I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my
 ## 📲 Connect with Me on Social Media 
 - **LinkedIn:** [abhay.k](https://linkedin.com/in/abhay-kumar-0759151b1)
 - **GitHub:** [abhay.k](https://github.com/abhay08-k09)
-- **Instagram:** [abhay.k](https://instagram.com/abhay08_k09_) 
 - **Twitter:** [abhay.k](https://x.com/abhay08_k09_) 
 
 
