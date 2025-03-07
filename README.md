@@ -21,20 +21,6 @@ I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my
   - **Grade:** 91.6%ile
   - **CRL:** 73643
 
-## ⭐ Coding Profiles 
-- **LeetCode:** [abhay08_k09_](https://leetcode.com/u/abhay08_k09_/)
-- **CodeChef:** [abhay08_k09_](https://www.codechef.com/users/abhay08102003)
-- **Geeks For Geeks:** [abhay08_k09__](https://www.geeksforgeeks.org/user/abhay08_k09_/) 
-
-## 📫 How to Reach Me
-- **Email:** [abhay08102003@gmail.com](mailto:abhay08102003@gmail.com)
-
-## 📲 Connect with Me on Social Media 
-- **LinkedIn:** [abhay.k](https://linkedin.com/in/abhay-kumar-0759151b1)
-- **GitHub:** [abhay.k](https://github.com/abhay08-k09)
-- **Twitter:** [abhay.k](https://x.com/abhay08_k09_) 
-
-
 ## 📊 GitHub Activity
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay08-k09&show_icons=true&locale=en&layout=compact" alt="abhay08-k09" /></p>
