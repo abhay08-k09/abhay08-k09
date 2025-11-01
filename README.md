@@ -1,5 +1,4 @@
 # Hi 👋, I'm Abhay Kumar ! 
-![Profile Views](https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip%20Views&color=informational&labelColor=gray)
 
 ## About Me
 I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my from **GL Bajaj Institute of Technology and Management**, in department of **Computer Science Engineering**.
@@ -21,12 +20,3 @@ I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my
   - **Grade:** 91.6%ile
   - **CRL:** 73643
 
-## 📊 GitHub Activity
-
-<p><img align="left" src="https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip" alt="abhay08-k09" /></p>
-
-<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip" alt="abhay08-k09" /></p>
-
-<p><img align="center" src="https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip" alt="abhay08-k09" /></p>
-
-You're welcome to explore my repositories and connect with me!
